@@ -30,5 +30,5 @@ html.color-dark-grey {
 	color : #353535;
 }
 html.text-color {
-	color : black;
+	color : var(--color-black)
 }
