@@ -406,4 +406,3 @@ ul.row {
 .social-link > svg {
 	fill: var(--text-color);
 }
-/* on utilise fill pour colorer un svg et non color */
