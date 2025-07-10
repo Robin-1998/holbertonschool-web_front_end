@@ -354,7 +354,7 @@ h1, h2, h3, h4, h5, h6 {
 	color: var(--nav-item-link-hover);
 }
 
-ul .row {
+ul.row {
 	margin: 0;
 	padding: 0;
 	list-style: none;
@@ -367,7 +367,7 @@ ul .row {
 }
 
 .col-1-2 {
-	width: 50%;
+	width: 0.5rem;
 	float: left;
 	padding: 50%;
 }
@@ -378,6 +378,6 @@ ul .row {
 	color: var(--text-color);
 }
 
-ul {
+.footer ul {
 	text-align: right;
 }
