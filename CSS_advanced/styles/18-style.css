@@ -197,15 +197,6 @@ template {
 
 /*# sourceMappingURL=normalize.min.css.map */
 
-/* 
-  CSS styles for navbar menu and layout 
-  - float navbar-menu to right
-  - nav styles: margin/padding 0, no list style, center text
-  - nav-item inside nav: font family, weight, size, letter-spacing, display, margin
-  - nav-link inside nav: display block, padding 0.5rem 1rem
-  - nav-link hover: color primary
-*/
-
 :root {
 	--color-primary: #d73953;
 	--color-black: #090909;
@@ -332,7 +323,7 @@ h1, h2, h3, h4, h5, h6 {
 	padding: var(--footer-padding);
 }
 
-.navbar-menu:target {
+.navbar-menu {
 	float: right;
 }
 
